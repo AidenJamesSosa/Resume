@@ -2,23 +2,25 @@
 
 * Self Accessment
 
-  * What is my strength & Weakness
-
+    - Strengths
+       * Ability to keep trying to figure things out
+    - Weakness
+       * Consistant Burnout
     - Game Engine
-    - Language
-    - Type of Game Programming
+       * Unity
+    - Languages
+       * C# and C++
 
 * Studio Types
-
-    * Triple-A 
-    * Indie
+    - Studio preference
+       * I have interest in Triple-A studios. The thought of working in a big teams interests me as I tend to be better at working with a team than by myself.
 
 * Programming Specialization
 
   * Gameplay Programmer
+       - Mostly used C# for gameplay
   * AI Programmer
-  * Graphics
-  * Engine / Core programmer
+       - Minor experience in tweaking AI.
+       - Used Behavoir in Unity for enemy AI.
   * UI Programmer
-  * Network / Online
-
+     - Healthbars, ammo, and on screen text.
